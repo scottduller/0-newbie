@@ -1,0 +1,3 @@
+[submodule "00-order-summary-component"]
+	path = 00-order-summary-component
+	url = https://github.com/scottduller/00-order-summary-component.git
